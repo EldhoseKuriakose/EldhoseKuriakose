@@ -1,7 +1,5 @@
 ## Hi there,&nbsp;I'm Eldhose Kuriakose 👋
 
-<img src="Eldhose.jpg" alt="Your Name" width="230" height="230" style="border-radius:50%;">
-
 ## About Me
 
 As a highly skilled and versatile creative developer, I possess a diverse set of technical abilities and a passion for utilizing them to drive innovation and solve complex problems. My proficiency in programming languages such as Java, JavaScript, Python, C, and C++, as well as my expertise in full stack development, mobile app development (React Native), and databases (MongoDB, SQL) make me well-suited to tackle a wide range of projects. My background in mathematics and computer science has also given me a keen understanding of the underlying principles and logic behind the technologies I work with, allowing me to think critically and creatively when developing solutions. I am eager to put my skills to use for the betterment of society and am constantly seeking new challenges and opportunities to grow as a developer.
