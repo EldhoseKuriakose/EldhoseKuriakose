@@ -22,10 +22,8 @@ You can find more of my work on my [LinkedIn](https://www.linkedin.com/in/eldhos
 | -------------- | ------------------------ |
 | Malayalam      | Native or bilingual      |
 | English        | Native or bilingual      |
-| Hindi          | Limited working          |
-| Tamil          | Limited working          |
-| French         | Elementary               |
-| German         | Elementary               |
+| Hindi          | Professional working     |
+| Tamil          | Professional working     |
 
 ## Get in Touch
 
